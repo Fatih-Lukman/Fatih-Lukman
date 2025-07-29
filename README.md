@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is fatih i am:
+
+- 💻 Currently learning HTML Javascript, PHP, and CSS
+- 📖 Currently learning al quran
 
 <!--
 **Fatih-Lukman/Fatih-Lukman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
