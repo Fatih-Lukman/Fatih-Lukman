@@ -5,7 +5,6 @@ My name is fatih i am:
 - 📖 Currently learning and memorizing al quran
 - 🖥️ UI/UX Designer
 - 🖱️ Wordpress Developer
-
 <!--
 **Fatih-Lukman/Fatih-Lukman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
